@@ -1,0 +1,13 @@
+{
+	"name": "poom-image-to-webp",
+	"version": "1.0.0",
+	"main": "app.js",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"convert": "node --experimental-modules app.js"
+	},
+	"dependencies": {
+		"sharp": "^0.33.4"
+	}
+}
