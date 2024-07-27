@@ -1,5 +1,5 @@
 {
-	"name": "poom-image-to-webp",
+	"name": "image-to-webp",
 	"version": "1.0.0",
 	"main": "app.js",
 	"license": "MIT",
